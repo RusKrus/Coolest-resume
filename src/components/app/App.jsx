@@ -1,11 +1,9 @@
 import './App.css';
-import Navigation from '../nav/Navigation';
+import Header from '../header/Header';
 
 function App() {
   return (
-    <Navigation>
-
-    </Navigation>
+    <Header/>
   );
 }
 
